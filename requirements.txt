@@ -1,0 +1,6 @@
+django==4.2.24
+psycopg2-binary
+psycopg2
+boto3
+django-storages
+awsebcli
